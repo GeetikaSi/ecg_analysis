@@ -8,7 +8,7 @@ Please follow the following steps to run the code:
 4. Please import all necessary packages (run cell 1 of Jupyter notebook)
 5. Go to '1. Processing .hea file' cell and click on 'Cell' and 'Run All Below'
 6. Then run the two cells below 'Run cells to load files' 
-    a. Load path of header '.hea' file in the first input box
-    b. Load path of '.mat' file in the second input box
+a. Load path of header '.hea' file in the first input box
+b. Load path of '.mat' file in the second input box
 The program gives the output of various scenarios including hearat rate detection without filtering,
 with filtering, using scipy and heartpy packaging.
